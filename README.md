@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi, I'm Yashnarbek / Sanzio 👋
 
-<!--
-**SanzioCG/SanzioCG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+3D Hard-Surface Artist with 6+ years in production, now building pipeline tools with Python.
 
-Here are some ideas to get you started:
+- 🔧 I automate Maya workflows using `pymel`, `maya.cmds`, and `PySide2`
+- 🎯 Focus: Vehicles, Props, CAD-to-Poly, Asset Validation
+- 💼 Currently: Technical Artist at Proconcept | Ex UIC Group, VoltoTECH
+- 🌍 Based in Tashkent, Uzbekistan
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Featured Tools
+
+#### Tech Stack
+`Maya` `Python` `3Ds Max` `ZBrush` `Substance Painter` `Fusion 360` `Unreal` `Git`
+
+#### Let's Connect
+[ArtStation](https://artstation.com/sanzio) • [LinkedIn](https://linkedin.com/in/yashnarbek-qudratov)
