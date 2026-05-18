@@ -1,16 +1,13 @@
-### Hi, I'm Yashnarbek / Sanzio 👋
+# Hi there, I'm Yashnarbek (Sanzio) 👋
+### Digital Twin & Simulation Engineer | Senior 3D Technical Artist
 
-3D Hard-Surface Artist with 6+ years in production, now building pipeline tools with Python.
+I bridge the gap between 3D CAD engineering and real-time software automation to build high-fidelity **Digital Twins**. As a **Vibecoder**, I prioritize system architecture and leverage AI tools to rapidly deploy high-performance graphics pipelines.
 
-- 🔧 I automate Maya workflows using `pymel`, `maya.cmds`, and `PySide2`
-- 🎯 Focus: Vehicles, Props, CAD-to-Poly, Asset Validation
-- 💼 Currently: Technical Artist at Proconcept | Ex UIC Group, VoltoTECH
-- 🌍 Based in Tashkent, Uzbekistan
+---
 
-#### Featured Tools
+## 🚀 What I'm Building
+* **SAR-RT11 "Search & Rescue" Rover Digital Twin:** Translating heavy CAD rover assemblies into modular OpenUSD layers and streaming real-time telemetry from a TypeScript backend via WebSockets into Unreal Engine 5.
+* **Smart Warehouse Simulation:** Synchronizing live WMS/ERP JSON feeds with dynamic 3D environments to optimize industrial automation and logistics.
 
-#### Tech Stack
-`Maya` `Python` `3Ds Max` `ZBrush` `Substance Painter` `Fusion 360` `Unreal` `Git`
-
-#### Let's Connect
-[ArtStation](https://artstation.com/sanzio) • [LinkedIn](https://linkedin.com/in/yashnarbek-qudratov)
+## 🛠️ Tech Stack & Ecosystem
+`NVIDIA Omniverse` `OpenUSD` `Unreal Engine 5` `Python` `TypeScript` `Autodesk Maya` `Fusion 360` `Substance Painter`
