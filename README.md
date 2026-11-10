@@ -1,4 +1,4 @@
-# Hi there, I'm Yashnarbek (Sanzio) 👋
+# Hi there, I'm Yashnarbek  👋
 ### Digital Twin & Simulation Engineer | Senior 3D Technical Artist
 
 I bridge the gap between 3D CAD engineering and real-time software automation to build high-fidelity **Digital Twins**. As a **Vibecoder**, I prioritize system architecture and leverage AI tools to rapidly deploy high-performance graphics pipelines.
