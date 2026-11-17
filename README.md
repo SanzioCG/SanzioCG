@@ -1,13 +1,31 @@
-# Hi there, I'm Yashnarbek  👋
-### Digital Twin & Simulation Engineer | Senior 3D Technical Artist
+# Yashnarbek Kudratov
 
-I bridge the gap between 3D CAD engineering and real-time software automation to build high-fidelity **Digital Twins**. As a **Vibecoder**, I prioritize system architecture and leverage AI tools to rapidly deploy high-performance graphics pipelines.
+**Industrial Integrator · CNC & CAD/CAM Automation · Founder of U-HUB**
 
----
+I work where furniture manufacturing meets software. At EMAN I connect HOMAG machines,
+Tapio, SmartWOP, woodWOP and Alphacam into production workflows: CNC machining, nesting,
+drilling, edge banding and BOM-driven planning. I build tools that take a furniture design
+all the way to manufacturing data.
 
-## 🚀 What I'm Building
-* **SAR-RT11 "Search & Rescue" Rover Digital Twin:** Translating heavy CAD rover assemblies into modular OpenUSD layers and streaming real-time telemetry from a TypeScript backend via WebSockets into Unreal Engine 5.
-* **Smart Warehouse Simulation:** Synchronizing live WMS/ERP JSON feeds with dynamic 3D environments to optimize industrial automation and logistics.
+My background is 3D (Maya, 3ds Max, ZBrush, Substance Painter, Unreal Engine, Fusion 360).
+I design the architecture and product logic of my projects and build them with AI-assisted
+development. Currently learning Python and robotics simulation.
 
-## 🛠️ Tech Stack & Ecosystem
-`NVIDIA Omniverse` `OpenUSD` `Unreal Engine 5` `Python` `TypeScript` `Autodesk Maya` `Fusion 360` `Substance Painter`
+## Projects
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| **U-HUB** | Parametric furniture engineering platform: cabinet design → validation → BOM → manufacturing data, with a 3D editor | React, TypeScript, Three.js, FastAPI, PostgreSQL · *private, demo on request* |
+| **[HUB-Mobile](https://github.com/SanzioCG/HUB-Mobile)** | Mobile viewer for U-HUB projects with AR (door and drawer animation in AR) | Expo, React Native, Three.js |
+| **FRENTE CAD** | Desktop CAD/CAM for furniture facades: parametric models, nesting, toolpaths, CNC output for Rover and Excitech | C++20, Qt 6 · *private, demo on request* |
+| **Dafna Configurator** | Touchscreen furniture configurator for showroom kiosks | React, TypeScript, Three.js |
+
+## Tools
+
+**Manufacturing:** HOMAG · woodWOP · SmartWOP · Tapio · Alphacam · Excitech CNC · G-code / MPR
+**Software:** TypeScript · React · Three.js · Python (FastAPI) · C++ / Qt · PostgreSQL · Git
+**3D / CAD:** Maya · 3ds Max · Fusion 360 · AutoCAD · ZBrush · Substance Painter · Unreal Engine
+
+## Contact
+
+Tashkent, Uzbekistan
